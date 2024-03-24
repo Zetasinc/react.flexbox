@@ -1,0 +1,14 @@
+h1 {
+    background-color: palegreen;
+    color:brown;
+}
+section {
+    color: yellow;
+}
+.footer {
+    color:blueviolet;
+}
+main {
+    width: fit-content;
+    background-color: rgb(13, 109, 133);
+}
